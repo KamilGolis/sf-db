@@ -1,0 +1,10 @@
+.agents/
+docs/
+.scratch/
+
+/bin/
+/dist/
+*.exe
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
